@@ -1,10 +1,10 @@
 # hello_data_science
 I've summarised some of the projects and code I've worked on around data analyst, machine learning, time series analysis and AI. I you have any question, just text me.
 
-<P> On "Data_Science\projet_spaceY" is a data science Projet. In this Projet, we  predict if the Falcon 9 first stage(a rocket) will land successfully or not. More Informations about the scenario are under projet_spaceY\README.md
+<p> On "Data_Science\projet_spaceY" is a data science Projet. In this Projet, we  predict if the Falcon 9 first stage(a rocket) will land successfully or not. More Informations about the scenario are under projet_spaceY\README.md</p>
 <br>
 
-<p> on "Data_Science\data_visualtion" use folium to plot geospatialdata and dash to create web application with interactive dashboard with plotly
+<p> on "Data_Science\data_visualisation" use folium to plot geospatialdata and dash to create web application with interactive dashboard with plotly
 </p>
 
 <br>
